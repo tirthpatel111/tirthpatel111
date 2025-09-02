@@ -44,9 +44,6 @@
 🔹 [**Online Book Store Management System (PHP + MySQL)**](https://github.com/tirthpatel111/Online-Book-Store-Website)  
 📌 Dynamic book store with user & admin login, cart & checkout system, and admin panel for product/order/user management  
 
-🔹 [**Online Bus Ticket Booking System (ASP.NET Core MVC + SQL Server)**](https://github.com/tirthpatel111)  
-📌 Role-based login for passengers, operators & admin, real-time seat booking, cost calculation, and e-ticket generation  
-
 🔹 [**Emotion Detection Model (Python + FastAPI)**](https://github.com/tirthpatel111/Emotion-Detection)  
 📌 Machine learning model with REST API for real-time emotion classification  
 
